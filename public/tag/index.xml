@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tag on DataPowered</title>
+    <link>/tag/</link>
+    <description>Recent content in Tag on DataPowered</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Oct 2017 22:56:26 +0100</lastBuildDate>
+    
+	<atom:link href="/tag/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bayes</title>
+      <link>/tag/bayes/</link>
+      <pubDate>Sat, 14 Oct 2017 22:56:26 +0100</pubDate>
+      
+      <guid>/tag/bayes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tech</title>
+      <link>/tag/tech/</link>
+      <pubDate>Sat, 14 Oct 2017 22:56:26 +0100</pubDate>
+      
+      <guid>/tag/tech/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

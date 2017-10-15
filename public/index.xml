@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DataPowered</title>
+    <link>/</link>
+    <description>Recent content on DataPowered</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Oct 2017 22:56:33 +0100</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Some other post</title>
+      <link>/post/third/</link>
+      <pubDate>Sat, 14 Oct 2017 22:56:33 +0100</pubDate>
+      
+      <guid>/post/third/</guid>
+      <description>Teh quick brown fox jumped over the lazy dog</description>
+    </item>
+    
+    <item>
+      <title>Here we go again</title>
+      <link>/post/second/</link>
+      <pubDate>Sat, 14 Oct 2017 22:56:26 +0100</pubDate>
+      
+      <guid>/post/second/</guid>
+      <description>Sometimes you can just not type</description>
+    </item>
+    
+    <item>
+      <title>Some post</title>
+      <link>/post/first/</link>
+      <pubDate>Sat, 14 Oct 2017 22:55:23 +0100</pubDate>
+      
+      <guid>/post/first/</guid>
+      <description>“Peace of mind produces right values, right values produce right thoughts. Right thoughts produce right actions and right actions produce work which will be a material reflection for others to see of the serenity at the center of it all.” ― Robert M. Pirsig, Zen and the Art of Motorcycle Maintenance</description>
+    </item>
+    
+    <item>
+      <title>About us</title>
+      <link>/about/</link>
+      <pubDate>Sat, 14 Oct 2017 22:51:00 +0100</pubDate>
+      
+      <guid>/about/</guid>
+      <description>We&amp;rsquo;re a couple of data / research enthusiasts.
+David David has a background in game design. He likes to play Dishonored2 and helps Lex out with the hard bits.
+Check out his posts here.
+ 
+Lex Lex is a huge R fan and wants to share cool data stuff here.
+See her posts here.</description>
+    </item>
+    
+  </channel>
+</rss>
