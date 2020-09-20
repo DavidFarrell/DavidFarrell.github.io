@@ -4,7 +4,17 @@
   
   <url>
     <loc>http://gameologist.com/</loc>
-    <lastmod>2020-09-19T09:39:10+01:00</lastmod>
+    <lastmod>2020-09-20T14:37:41+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gameologist.com/portfolio/2021_lifelab/</loc>
+    <lastmod>2020-09-20T14:37:41+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gameologist.com/portfolio/2020_game_consultancy/</loc>
+    <lastmod>2020-09-20T14:04:41+01:00</lastmod>
   </url>
   
   <url>
@@ -63,6 +73,16 @@
   </url>
   
   <url>
+    <loc>http://gameologist.com/portfolio/2019_susfans/</loc>
+    <lastmod>2019-09-20T14:37:41+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gameologist.com/portfolio/2018_enchanted/</loc>
+    <lastmod>2019-09-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://gameologist.com/about/</loc>
     <lastmod>2019-05-12T12:14:34+06:00</lastmod>
   </url>
@@ -118,27 +138,48 @@
   </url>
   
   <url>
-    <loc>http://gameologist.com/portfolio/painting/</loc>
+    <loc>http://gameologist.com/portfolio/2018_book/</loc>
+    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gameologist.com/portfolio/agency-web/</loc>
+    <loc>http://gameologist.com/portfolio/2018_gaming_climate_futures/</loc>
+    <lastmod>2018-09-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gameologist.com/portfolio/web-app/</loc>
+    <loc>http://gameologist.com/portfolio/2017_bbc/</loc>
+    <lastmod>2017-09-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gameologist.com/portfolio/business/</loc>
+    <loc>http://gameologist.com/portfolio/2020_ggj/</loc>
+    <lastmod>2017-09-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gameologist.com/portfolio/portfolio/</loc>
+    <loc>http://gameologist.com/portfolio/2020_games_insight/</loc>
+    <lastmod>2013-09-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://gameologist.com/portfolio/modern-web/</loc>
+    <loc>http://gameologist.com/portfolio/2013_bb/</loc>
+    <lastmod>2013-09-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gameologist.com/portfolio/2011_ebug_platform/</loc>
+    <lastmod>2011-09-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gameologist.com/portfolio/2012_ebug_story/</loc>
+    <lastmod>2011-09-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://gameologist.com/portfolio/2005_dare/</loc>
+    <lastmod>2005-09-20T15:34:52+01:00</lastmod>
   </url>
   
 </urlset>
