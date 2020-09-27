@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>games on David Farrell</title>
+    <link>https://gameologist.com/tags/games/</link>
+    <description>Recent content in games on David Farrell</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Sep 2020 18:37:54 +0100</lastBuildDate><atom:link href="https://gameologist.com/tags/games/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>LifeLab&#43;</title>
+      <link>https://gameologist.com/blog/20200919_eachb/</link>
+      <pubDate>Sat, 19 Sep 2020 18:37:54 +0100</pubDate>
+      
+      <guid>https://gameologist.com/blog/20200919_eachb/</guid>
+      <description>LifeLab+ is an app</description>
+    </item>
+    
+  </channel>
+</rss>

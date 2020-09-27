@@ -2,62 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on David Farrell</title>
-    <link>http://gameologist.com/tags/</link>
+    <link>https://gameologist.com/tags/</link>
     <description>Recent content in Tags on David Farrell</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 May 2020 12:14:34 +0600</lastBuildDate><atom:link href="http://gameologist.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 19 Sep 2020 18:37:54 +0100</lastBuildDate><atom:link href="https://gameologist.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>agency</title>
-      <link>http://gameologist.com/tags/agency/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <link>https://gameologist.com/tags/agency/</link>
+      <pubDate>Sat, 19 Sep 2020 18:37:54 +0100</pubDate>
       
-      <guid>http://gameologist.com/tags/agency/</guid>
+      <guid>https://gameologist.com/tags/agency/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Design</title>
-      <link>http://gameologist.com/tags/design/</link>
-      <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
+      <link>https://gameologist.com/tags/design/</link>
+      <pubDate>Sat, 19 Sep 2020 18:37:54 +0100</pubDate>
       
-      <guid>http://gameologist.com/tags/design/</guid>
+      <guid>https://gameologist.com/tags/design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>games</title>
+      <link>https://gameologist.com/tags/games/</link>
+      <pubDate>Sat, 19 Sep 2020 18:37:54 +0100</pubDate>
+      
+      <guid>https://gameologist.com/tags/games/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>http://gameologist.com/tags/development/</link>
+      <link>https://gameologist.com/tags/development/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>http://gameologist.com/tags/development/</guid>
+      <guid>https://gameologist.com/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SEO</title>
-      <link>http://gameologist.com/tags/seo/</link>
+      <link>https://gameologist.com/tags/seo/</link>
       <pubDate>Tue, 12 May 2020 12:14:34 +0600</pubDate>
       
-      <guid>http://gameologist.com/tags/seo/</guid>
+      <guid>https://gameologist.com/tags/seo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Creative</title>
-      <link>http://gameologist.com/tags/creative/</link>
+      <link>https://gameologist.com/tags/creative/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>http://gameologist.com/tags/creative/</guid>
+      <guid>https://gameologist.com/tags/creative/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New</title>
-      <link>http://gameologist.com/tags/new/</link>
+      <link>https://gameologist.com/tags/new/</link>
       <pubDate>Sun, 12 May 2019 12:14:34 +0600</pubDate>
       
-      <guid>http://gameologist.com/tags/new/</guid>
+      <guid>https://gameologist.com/tags/new/</guid>
       <description></description>
     </item>
     
